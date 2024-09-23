@@ -1,4 +1,2 @@
-import es from './es.js';
-es.helloES();
-const common = require('.common.js');
-common.helloCommonJS();
+import './style.css';
+console.log('Hello Webpack!!')
